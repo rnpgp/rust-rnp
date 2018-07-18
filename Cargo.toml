@@ -1,0 +1,6 @@
+[package]
+name = "rnp"
+version = "0.1.0"
+authors = ["Daniel Wyatt <daniel.wyatt@ribose.com>"]
+
+[dependencies]
